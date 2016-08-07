@@ -14,5 +14,6 @@ public class masterOnly {
     public void deas()
     {
         System.out.println("Hello");
+        //knoqdnfnwqdonqwod
     }
 }
