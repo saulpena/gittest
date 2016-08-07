@@ -11,5 +11,8 @@ package gittest;
  */
 public class branchClass {
  
-    System.out.println("this is branch class");
+    public void randomS(){
+                System.out.println("this is branch class");
+    }
+    
 }
