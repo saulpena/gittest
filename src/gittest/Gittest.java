@@ -25,6 +25,8 @@ public class Gittest {
        {
            System.out.println("This is cool");
        }
+    
+        System.out.println("This is only in the master");
     }
     
 }
