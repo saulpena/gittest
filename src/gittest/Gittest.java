@@ -24,6 +24,7 @@ public class Gittest {
     for(int i=0;i<20;i++)
        {
            System.out.println("This is cool");
+           System.out.print("");
        }
     
         System.out.println("This is only in the master");
